@@ -1,0 +1,10 @@
+:root{
+    --primary-bg-color: rgb(3, 3, 36);
+    --primary-ff: "Poppins", sans-serif;
+    --primary-color: white;
+    --secondary-color: #868490;
+    --secondary-bg-color: rgba(9, 20, 39, 0.6);
+    --text-bg-color: rgba(16, 27, 46, 0.3);
+    --link-message-color: rgba(248, 231, 161, 1);
+    --table-br: 10px;
+}
