@@ -28,7 +28,9 @@ header h2{
     font-size: 32px;
     font-weight: bold;
 }
-
+.project_text{
+    margin-top: -10px;
+}
 .menu{
     display: flex;
     gap: 40px;
